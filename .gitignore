@@ -1,15 +1,13 @@
 .gradle
 /build/
 
-entrenamiento2/.gradle
-entrenamiento2/bin
-entrenamiento2/.settings
-entrenamiento2/build
-target
-entrenamiento2/.classpath
-entrenamiento2/.project
-entrenamiento2/settings.gradle
-entrenamiento2/.idea
+.gradle
+bin
+.settings
+.classpath
+.project
+settings.gradle
+.idea
 
 # Ignore Gradle GUI config
 gradle-app.setting
