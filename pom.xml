@@ -1,0 +1,6 @@
+<dependency>
+    <groupId>net.serenity-bdd</groupId>
+    <artifactId>serenity-screenplay-rest</artifactId>
+    <version>${serenity.version}</version>
+    <scope>test</scope>
+</dependency>

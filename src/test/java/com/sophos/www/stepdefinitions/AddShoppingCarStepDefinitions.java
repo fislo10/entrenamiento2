@@ -1,6 +1,7 @@
 package com.sophos.www.stepdefinitions;
 
 import com.sophos.www.tasks.SearchProduct;
+
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
